@@ -1,0 +1,2 @@
+## Flexible Satellite Controller
+This project seeks to control a flexible Aluminum plate using relatively heavy BLDC motors as reaction wheels. Gyro readings on a BNO055 IMU are processed on a rudimentary PD controller to get a baseline for control. 
